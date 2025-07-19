@@ -2,7 +2,7 @@
 
 This repository contains all the tasks and deliverables for the Cloud Computing Internship at CODTECH IT SOLUTIONS PVT.LTD, completed by ANUJ CHOUDHARY (Intern ID: CT08DM160). The tasks include setting up cloud storage, monitoring cloud applications, designing multi-cloud architectures, and implementing cloud security.
 
-This repository contains all the tasks and deliverables for the Cloud Computing Internship at CODTECH IT SOLUTIONS PVT.LTD, completed ANUJ CHOUDHARY (Intern ID: CT08DM160) . The internship spanned 8 weeks from June 11th, 2025, to August 11th, 2025, focusing on practical learning and skill development in cloud computing technologies.
+This repository contains all the tasks and deliverables for the Cloud Computing Internship at CODTECH IT SOLUTIONS PVT.LTD, completed ANUJ CHOUDHARY (Intern ID: CT08DM160) . The internship spanned 8 weeks from May 20th, 2025, to July 20th, 2025, focusing on practical learning and skill development in cloud computing technologies.
 
 ## Tasks Overview:
 ### Task 1: Create and Configure Cloud Storage on AWS S3
