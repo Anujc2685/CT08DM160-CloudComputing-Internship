@@ -4,28 +4,28 @@ This repository contains all the tasks and deliverables for the Cloud Computing 
 
 This repository contains all the tasks and deliverables for the Cloud Computing Internship at CODTECH IT SOLUTIONS PVT.LTD, completed ANUJ CHOUDHARY (Intern ID: CT08DM160) . The internship spanned 8 weeks from June 11th, 2025, to August 11th, 2025, focusing on practical learning and skill development in cloud computing technologies.
 
-##Tasks Overview:
-###Task 1: Create and Configure Cloud Storage on AWS S3
+## Tasks Overview:
+### Task 1: Create and Configure Cloud Storage on AWS S3
 Set up an S3 bucket, uploaded example files, and configured access permissions.
 Deliverable: A bucket setup with example files uploaded and access permissions configured.
 
-###Task 2: Set Up Monitoring for a Cloud-Based Application Using AWS CloudWatch
+### Task 2: Set Up Monitoring for a Cloud-Based Application Using AWS CloudWatch
 Configured CloudWatch monitoring and alerts for an EC2 instance.
 Deliverable: Configured alerts and a dashboard showcasing metrics.
 
-###Task 3: Design a Multi-Cloud Architecture
+### Task 3: Design a Multi-Cloud Architecture
 Designed a multi-cloud architecture where services are distributed across AWS and another cloud provider.
 Deliverable: Documentation and a demo showcasing interoperability between the platforms.
 
-###Task 4: Implement IAM Policies, Secure Storage, and Data Encryption on a Cloud Platform
+### Task 4: Implement IAM Policies, Secure Storage, and Data Encryption on a Cloud Platform
 Implemented IAM policies, secure storage, and data encryption on AWS.
 Deliverable: Configured security policies and a report detailing the setup.
 
-##Technologies Used:
+## Technologies Used:
 AWS Services: S3, CloudWatch, EC2, RDS, IAM, KMS
 Tools: AWS Management Console, AWS CLI, GitHub
 
-##Learning Objectives:
+## Learning Objectives:
 Understand and implement cloud storage solutions.
 Set up and configure cloud monitoring and alerting systems.
 Design and demonstrate multi-cloud architectures.
